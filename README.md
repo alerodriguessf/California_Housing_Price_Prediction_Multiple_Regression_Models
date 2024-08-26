@@ -131,7 +131,3 @@ print("MSE Grid:", msegrid)
 print("RMSE Grid:", np.sqrt(msegrid))
 ```
 - **Purpose**: The optimized XGBoost model, tuned by GridSearchCV, is evaluated using the test set. The model's performance is assessed using MSE and RMSE to determine the effectiveness of the hyperparameter tuning.
-
----
-
-This README now includes both a high-level overview and a detailed explanation of the code, making it comprehensive and accessible to anyone reviewing or using the code.
